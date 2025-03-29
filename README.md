@@ -300,3 +300,10 @@
 - Ahány vállalkozásban dolgozunk, annyi fizetős(!) elektronikus aláírás kell majd
 - A jogosultság nem céghez, hanem magánszemélyhez kötődik
 - WTF? A kétfaktoros azonosítás (ügyfélkapu+, DÁP) miért nem elég?
+
+Update / [Mike Krisztina](https://www.facebook.com/groups/geodezia/posts/29323992297184519?comment_id=29325152433735172&reply_comment_id=29331324769784605)
+
+- nem kell vállakozásonként külön aláírás,
+- de magánszemélyként nem lehet aláírni, tehát a DÁP sem lesz jó erre
+- szakmai célú aláírás kell kell ehhez
+
